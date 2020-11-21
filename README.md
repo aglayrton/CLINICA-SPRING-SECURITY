@@ -1,5 +1,8 @@
 # CLINICA-SPRING-SECURITY
 
+![Screenshot](https://user-images.githubusercontent.com/15651513/99888921-481edf80-2c2f-11eb-8707-1bca6ac61b5b.png)
+
+
 <h2>Nesse projeto foram utilizadas as tecnologias:</h2>
 
 <ul>
